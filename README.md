@@ -4,13 +4,13 @@ All the collected data is used with the purpose of demonstrating ALiCE's biometr
 
 We make use of the following information:
 
-ID card image: We use it to obtain the face image and to validate the integrity and/or authenticity of the ID card.
+* ID card image: We use it to obtain the face image and to validate the integrity and/or authenticity of the ID card.
 
-Face image: We use it to generate the biometric template of the user.
+* Face image: We use it to generate the biometric template of the user.
 
-Biometric template: We obtain it from the face image, and it is used to verify the identity of the user.
+* Biometric template: We obtain it from the face image, and it is used to verify the identity of the user.
 
-Nickname/e-mail: We use it to associate it to a biometric profile and enable user verification.
+* Nickname/e-mail: We use it to associate it to a biometric profile and enable user verification.
 
 # Who is responsible for the treatment of your data?
 
